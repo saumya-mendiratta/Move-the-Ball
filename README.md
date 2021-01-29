@@ -1,6 +1,5 @@
-# Move-the-Ball
+# MOVE THE BALL
 It is a small game where you can move the ball using W,A,S,D keys
-<h1>MOVE THE BALL</h1>
 
 <h3> W : To move the ball upwards</h3>
 <h3> S : To move the ball downwards</h3>
